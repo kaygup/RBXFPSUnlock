@@ -1,4 +1,7 @@
-fn main()
+#include <iostream>
+
+int main()
 {
-println!("Gooning");
+std::cout << "Gooning" << "\n";
+return 0;
 }
